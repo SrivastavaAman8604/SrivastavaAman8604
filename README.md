@@ -1,8 +1,11 @@
 Hi there 👋
 
-I'm Aman Srivastava, currently working as a Frontend developer
-<!--
-**SrivastavaAman8604/SrivastavaAman8604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Aman Srivastava a Frontend developer 
+
+
+
+
+<!--**SrivastavaAman8604/SrivastavaAman8604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
