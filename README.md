@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React.<br>👯 I’m looking to collaborate on frontend development projects.<br>🤝 I’m looking for help with React Optimization.<br>🌱 I’m currently learning MERN.<br>💬 Ask me about frontend development, HTML, CSS, JavaScript, React.<br>⚡ Fun fact: I enjoy experimenting with new frontend technologies and creating visually appealing user interfaces.
+🔭 I’m currently working on React.<br>👯 I’m looking to collaborate on frontend development projects.<br>🤝 I’m looking for help with React Optimization.<br>🌱 I’m currently learning NextJs.<br>💬 Ask me about frontend development, HTML, CSS, JavaScript, React.<br>⚡ Fun fact: I enjoy experimenting with new frontend technologies and creating visually appealing user interfaces.
 
 
 ## 🌐 Socials:
